@@ -12,9 +12,9 @@
 ## Running
 
 1. Run magic script/command
-```bash
-npm start # to start the 
-```
+	```bash
+	npm start # to start the 
+	```
 
 2. use mouse click/touch to hold and release to shoot .... whatever
 3. PROFIT!!!!
