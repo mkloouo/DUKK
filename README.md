@@ -4,13 +4,15 @@
 
 * git
 * node.js
-* ```bash
-npm install # in project folder
-``` 
+* installing node modules
+	```bash
+	npm install # in project folder
+	``` 
 
 ## Running
 
-1. ```bash
+1. Run magic script/command
+```bash
 npm start # to start the 
 ```
 
